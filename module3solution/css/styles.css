@@ -1,0 +1,83 @@
+body
+{
+  font-size: 16px;
+  color: white;
+  background-color: 61122f;
+  font-family: oxygen,sans-serif;
+}
+
+
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border:0;
+
+
+}
+
+.navbar-brand
+{
+  padding-top:25px;
+  padding-bottom:25px;
+
+}
+
+.navbar-brand h1{
+
+
+  font-family: 'Lora',serif;
+  color: #557c3e
+  font-size:1.5em;
+  text-transform:uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px 1px #222;
+  margin-top:0px;
+  margin-bottom:0px;
+  line-height: .35;
+
+}
+
+.navbar-brand a:hover,navbar-brand a:focus{
+  text-decoration: none;
+}
+
+.Menu_container{
+  margin: 5px 5px 5px 5px:
+}
+.menu_1,.menu_2,.menu_3{
+  background-color: #dfbf9f;
+  color: black;
+  border: 1px solid black;
+  margin: 10px;
+}
+#menu_heading{
+  font-family: 'Lora',serif;
+  color: solid black;
+  font-size:1.3em;
+  text-transform:uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px 1px #222;
+  opacity: 0.8;
+  width:100%;
+
+}
+
+#menu_cat{
+  font-family: 'Lora',serif;
+  color: #557c3e;
+  font-size:1.1em;
+  text-transform:uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px 1px #222;
+  opacity: 0.8;
+  width:100%;
+  background-color: #dfbf9f;
+  border: 1px solid #f6b319;
+}
+
+
+
+
+#nav-list a:hover,#nav-list a:focus{
+  background-color: #b38600;
+}
